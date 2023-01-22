@@ -153,3 +153,7 @@ cython_debug/
 
 # VSCode
 .vscode
+
+# FreeCAD backups
+*.FCStd?
+

@@ -10,6 +10,10 @@ We will cover:
  * [scripting the FEA](#scripting-the-fea)
  * [running it all and analysing the results](#running-the-lot)
 
+This tutorial is also available in video form:
+ 
+[![@engineeringmaths: Easy parametric FEA with Freecad and Python](screenshots/thumbnail.png)](https://www.youtube.com/watch?v=RL_g89hDG9M)
+
 ## CAD model set up
 The objective is to determine how thin we can make the component's neck without exceeding a certain Von Mises stress or a certain maximum component elongation. The load will be radial through one of the holes. Here's a sketch of the finished component with two different gap sizes; worth mentioning that I am using PartDesigner for this.
 

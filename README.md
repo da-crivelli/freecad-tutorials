@@ -2,10 +2,11 @@
 
 This repo has a few tutorials for automating stuff around FreeCAD.
 
-TODO: add an index of tutorials here.
+Most tutorials are available on Youtube at [@engineeringmaths](https://www.youtube.com/@engineeringmaths).
+
 
 # Prerequisites
-You need to match the Freecad Python version to yours. I'd use pipenv for this and create a new virtualenv with a matchin version:
+You need to match the Freecad Python version to yours. I'd use pipenv for this and create a new virtualenv with a matching version:
 
 ```
 pipenv install --python 3.8.10  

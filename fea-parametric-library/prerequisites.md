@@ -1,0 +1,4 @@
+- Freecad 0.20
+- Python 3.8.10
+- (pipenv)
+- (Paraview)
